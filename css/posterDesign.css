@@ -72,8 +72,8 @@ top:2cm;
 .iconTitles{
 
   font-size: 14.63pt;
-  font-family: "Arial Black", Arial;
-  font-weight: 900;
+  font-family: Arial Black, Helvetica, sans-serif;
+  font-weight: bold;
   color : #1d3358;
   margin-top : 0;
   margin-bottom:0.21cm;
@@ -82,8 +82,8 @@ top:2cm;
 
 .iconDesc{
   font-size: 10.97pt;
-  font-family: "Arial Black", Arial;
-  font-weight: 900;
+  font-family: Arial Black, Helvetica, sans-serif;
+  font-weight: bold;
   color: #31383c;
   
 
