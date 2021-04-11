@@ -1,0 +1,427 @@
+body{
+  width:27.85cm;
+  height: 37.13cm;
+  position : relative;
+  margin: 0 auto;
+
+}
+
+.right {
+  position:absolute;
+  width: 13.86cm;
+  height:37.11cm;
+  background: #6aa5b7;
+  left : 13.5cm;
+
+}
+
+.left{
+  position:absolute;
+  width: 13.86cm;
+  height:37.11cm;
+  background:#fcecd7;
+}
+
+.line{
+
+position: absolute;
+background: #e6bbe6;
+width:1cm;
+height:0.2cm;
+left:13.5cm;
+top:2cm;
+
+
+}
+
+.mainTitle{
+  position:absolute;
+  font-size: 40pt;
+  font-family: Arial Black, Helvetica, sans-serif;
+  font-weight: bold;
+  color : #1d3358;
+  left:9cm;
+
+}
+
+#brain{
+  position : absolute;
+  width : 10.8cm;
+  height:10.8cm;
+  left: 8.05cm;
+  top: 4cm;
+}
+
+.icon{
+  position: absolute;
+  width: 2.36cm;
+  height:2.36cm;
+  left : 0.19cm;
+}
+
+
+.test{
+
+  position: absolute;
+  width: 7.5cm;
+  height : 2.38cm;
+  left: 3cm;
+  
+
+}
+.iconTitles{
+
+  font-size: 14.63pt;
+  font-family: Arial Black, Helvetica, sans-serif;
+  font-weight: bold;
+  color : #1d3358;
+  margin-top : 0;
+  margin-bottom:0.21cm;
+
+}
+
+.iconDesc{
+  font-size: 10.97pt;
+  font-family: Arial Black, Helvetica, sans-serif;
+  color: #31383c;
+  
+
+}
+
+.sleepIcon{
+  
+  
+  top: 5cm;
+}
+
+#sleepPosition{
+
+  top : 5cm;
+  width:5.48cm;
+  height:2.77cm;
+}
+
+.physicalIcon{
+  
+  top: 9.31cm;
+}
+
+#physicalPosition{
+
+  top:9.31cm;
+  width:5cm;
+  height:1.5cm;
+
+}
+
+.emotionalIcon{
+
+  top:14.32cm;
+}
+
+#emotionalPosition{
+
+  top: 14.32cm ;
+  width:7cm;
+  height:2.13cm;
+}
+.behavioralIcon{
+
+  top : 18.25cm;
+}
+
+.behavioralDesc{
+
+  width: 10cm;
+  height: 2.58cm;
+}
+
+#behavioralPosition{
+
+top: 18.25cm;
+}
+
+.moodIcon{
+  top : 22.48cm;
+}
+
+#moodPosition{
+
+  top: 22.48cm;
+}
+
+.exerciseIcon{
+
+  top : 5cm;
+  Left: 19cm;
+}
+
+#exercisePosition{
+
+  top : 5cm;
+  left: 21.66cm;
+  width:6cm;
+  height:0.6cm;
+
+}
+
+.communicationIcon{
+
+  top:9.31cm;
+  left:19cm;
+
+}
+
+#communicationPosition{
+
+  top:9.31cm;
+  left:21.46cm;
+  width:6.09cm;
+  height:1.84cm;
+
+}
+
+.relaxationIcon{
+
+  top:13.56cm;
+  left:19cm;
+
+}
+
+#relaxationPosition{
+
+  top:13.56cm;
+  left:21.46cm;
+  width:6.7cm;
+  height:2.4cm;
+}
+
+.selfacceptanceIcon{
+
+  top:17.75cm;
+  left:19cm;
+}
+
+#selfacceptancePosition{
+  top:17.75cm;
+  left : 21.46cm;
+  width:5.88cm;
+  height:1.38cm;
+}
+
+.beKindIcon{
+
+  left:18.94cm;
+  top:21.5cm;
+}
+
+#beKindPosition{
+  
+  left:21.4cm;
+  top:21.37cm;
+  width:6cm;
+  height:3cm;
+
+}
+.bottomLightBlue{
+  position: absolute;
+  width: 27.4cm;
+  height: 5.54cm;
+  background-color: #d1e9f2;
+  top:26.19cm;
+}
+.bottomDarkBlue{
+  position: absolute;
+  width: 27.4cm;
+  height: 5.54cm;
+  background-color: #22548c;
+  top:31.68cm;
+}
+
+.QuestionMarkPostion{
+  position: absolute;
+  width: 1.01cm;
+  height: 1.91cm;
+  left: 0.65cm;
+  top:29cm;
+}
+
+.HeartPosition{
+  position: absolute;
+  width: 1.55cm;
+  height: 1.34cm;
+  left: 7.24cm;
+  top:29cm;
+}
+.ChainPosition{
+  position: absolute;
+  width: 1.69cm;
+  height: 1.71cm;
+  left: 15.01cm;
+  top:29cm;
+}
+
+.RibbonPosition
+{
+  position: absolute;
+  width: 27.87cm;
+  height: 11.32cm;
+  left: -0.02cm;
+  top:25.42cm;
+}
+.Worried-text{
+  position: absolute;
+  font-family: Arial Black, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 19.5pt;
+  color: #22548c;
+  width: 17.27cm;
+  height: 1.63cm;
+  left: 1.17cm;
+  top:26.86cm;
+  margin:0;
+}
+
+.LightBlueTextFormat{
+  position: absolute;
+  font-family: Arial Black, Helvetica, sans-serif;
+  font-size: 9.8pt;
+  color: #22548c;
+  top:28.7cm;
+  height:1.84cm;
+}
+
+#QuestionMark-Desc{
+  width: 4.46cm;
+  left: 2.02cm; 
+}
+#Heart-Desc{
+  width: 5.06cm;
+  left: 9.29cm; 
+}
+#Chain-Desc{
+  width: 4.17cm;
+  left: 16.98cm; 
+}
+
+.KnowledgeTitle{
+  position: absolute;
+  font-family: Arial Black, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 19.5pt;
+  color:white;
+  width: 9.48cm;
+  height: 0.8cm;
+  left: 1.18cm;
+  top:32.31cm;
+  margin-top:0 ;
+}
+.DarkBlueIcons{
+  position: absolute;
+  top: 33.56cm;
+
+}
+#BubblesPosition{
+
+  width: 1.91cm;
+  height: 1.46cm;
+  left: 2.34cm;
+
+}
+#LaptopPosition{
+
+  width: 2.5cm;
+  height: 1.62cm;
+  left: 7.17cm;
+
+}
+
+#TrainingPosition{
+  width: 1.82cm;
+  height: 1.62cm;
+  left: 12.8cm;
+}
+
+#CellphonePosition{
+  width: 1.06cm;
+  height: 1.69cm;
+  left: 18.22cm;
+}
+
+.DarkBlueTextFormat{
+      position: absolute;
+      font-family: Arial Black, Helvetica, sans-serif;
+      font-size: 10.97pt;
+      text-align: center;
+      color:white;
+      top:35.65cm;
+      height:0.92cm;
+      text-decoration:none;
+}
+
+#Bubbles-Desc{
+  width: 4.99cm;
+  left: 0.96cm;
+  top: 35.25cm; 
+}
+
+#Laptop-Desc{
+      width: 3.85cm;
+      left: 6.58cm; 
+}
+
+#Training-Desc{
+  width: 4.55cm;
+  left:11.47cm; 
+}
+
+#CellPhone-Desc{
+  width: 3.96cm;
+  left:16.68cm; 
+}
+
+.RibbonTextPosition{
+  position: absolute;
+  font-family: Arial Black, Helvetica, sans-serif;
+  font-size: 39.62pt;
+  text-align: center;
+  color:#aacb6e;
+  left:22.71cm;
+  height:1.63cm;
+  margin-top: 0;
+}
+#FiftyPercentPosition{
+  width:3.33cm;
+  top:26.12cm
+}
+#FourteenPosition{
+  width:1.9cm;
+  top:29.73cm;
+  margin-left :1.5%;
+}
+#SeventyFivePosition{
+  width:3.33cm;
+  top:31.8cm
+}
+#TwentyFour{
+  width:1.9cm;
+  top:34.29cm;
+  margin-left :1.5%; 
+}
+
+#LifeTime{
+  color:white;
+  font-size:12.19pt;
+  width:3.33cm;
+  top:27.95cm;
+  height:1.53cm;
+}
+
+#ByAge{
+  color:white;
+  font-size:12.19pt;
+  width:1.59cm;
+  top:33.61cm;
+  height:0.5cm;
+  margin-Left: 2%;
+}
